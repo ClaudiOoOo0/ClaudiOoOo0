@@ -1,6 +1,6 @@
 ## Hello, World! 👋
 
-  Bienvenido a mi perfil
+Soy Claudio, bienvenido a mi perfil
 - :seedling: Estudiante de primer año Ing. Civil Informatica
 - :snake: Aprendiendo Python
 - 🐻‍❄️ Polar bear enjoyer
