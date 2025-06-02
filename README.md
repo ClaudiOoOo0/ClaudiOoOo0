@@ -5,4 +5,5 @@
 </div>
 
 ## 
-![](https://api.visitorbadge.io/api/VisitorHit?user=ClaudiOoOo0&repo=github-visitors-badge&countColor=%00cdff)
+![](https://api.visitorbadge.io/api/VisitorHit?user=ClaudiOoOo0&repo=github-visitors-badge&countColor=%237B1E7A)
+
