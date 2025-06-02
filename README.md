@@ -1,6 +1,5 @@
 ## ¡Hello World! 👋
 
 <div align="center">
-  <img width = "33%" src="![tired polar bear GIF](https://github.com/user-attachments/assets/5440b716-c1e5-40ae-a41b-b75f83a86ae1)
-">
+  <img width = "33%" src="[https://i.imgur.com/8BgVXcY.png](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXAycGVkbjE4ZnVwbDBtdmZ5OWlzMzdsMnMzcGd4cDFzcTduc2VlOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XCsuZw0hWj8B2/giphy.gif)">
 </div>
